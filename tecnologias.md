@@ -1,4 +1,4 @@
-# TECNOLOGÍAS DE INTERÉS 
+# TECNOLOGÍAS DE INTERÉS
 Este documento contiene una lista colaborativa sobre las tecnologías que les han resultado interesantes a los colaboradores.
 
 ## ¿Cómo Participar? 
@@ -21,6 +21,7 @@ Localice el renglón que lista la tecnología de su interés y modifique únicam
 - **INTERESADOS**: Incremente el valor existente en `1`. 
 
 ## Listado 
+
 |#| NOMBRE | ENLACE | INTERESADOS | 
 |-|-|-|-| 
 |1|Sistemas de Control de Versiones|[Git](https://git-scm.com/)|1| 
